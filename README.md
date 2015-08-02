@@ -9,7 +9,7 @@ Awesome Code, every day.
 [@hunt_css](https://twitter.com/hunt_css)   
 [@hunt_go_lang](https://twitter.com/hunt_go_lang)   
 [@hunt_html](https://twitter.com/hunt_html)   
-[@hunt_java](https://twitter.com/hunt_java)   
+[@hunt_java_lang](https://twitter.com/hunt_java_lang)   
 [@hunt_javascript](https://twitter.com/hunt_javascript)   
 [@hunt_objectivec](https://twitter.com/hunt_objectivec)   
 [@hunt_php](https://twitter.com/hunt_php)   
